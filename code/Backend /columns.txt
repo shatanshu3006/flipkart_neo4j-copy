@@ -1,0 +1,77 @@
+Product Name
+Brand
+Retail Price
+Number of Contents in Sales Package
+Fabric
+Type
+Pattern
+Ideal For
+Style Code
+Shape
+Suitable For
+Model Number
+Covered in Warranty
+Warranty Summary
+Not Covered in Warranty
+Weight
+Height
+Width
+Depth
+Occasion
+Color
+Outer Material
+Heel Height
+Sales Package
+Model Name
+Neck
+Sleeve
+Fit
+Material
+Pack of
+Series
+Design
+Cup Type
+Size
+Length
+Water Resistant
+Other Features
+Closure
+Waterproof
+Brand Color
+Certification
+Model ID
+Brand Fit
+Dial Shape
+Dial Color
+Sole Material
+Diameter
+Designed for
+Shade
+Pearl Type
+Precious/Artificial Jewellery
+Bangle Size
+Diamond Weight
+Diamond Shape
+Diamond Color Grade
+Diamond Clarity
+Gold Purity
+Base Material
+Gemstone
+Plating
+Collection
+Number of Gemstones
+Ring Size
+Setting
+Natural/Synthetic Diamond
+Gold Weight
+Collar
+Inner Lining
+Warranty Service Type
+Finish
+Vehicle Model Name
+Vehicle Brand
+Model Year
+color
+Wire Support
+Straps
+Detachable Straps
